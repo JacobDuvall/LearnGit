@@ -1,5 +1,1 @@
-# LearnGit
-Useless tricks
-* Work with .gitignore
-* Work with remotes
-# homework-simple-git-JacobDuvall
+This is the README for individual repo "Homework Simple Git"
